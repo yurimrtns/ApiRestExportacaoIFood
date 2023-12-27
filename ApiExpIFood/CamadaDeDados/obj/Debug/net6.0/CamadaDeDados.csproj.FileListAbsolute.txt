@@ -1,0 +1,15 @@
+C:\WorkingCopy\ApiExpIFood\CamadaDeDados\obj\Debug\net6.0\CamadaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkingCopy\ApiExpIFood\CamadaDeDados\obj\Debug\net6.0\CamadaDeDados.AssemblyInfoInputs.cache
+C:\WorkingCopy\ApiExpIFood\CamadaDeDados\obj\Debug\net6.0\CamadaDeDados.AssemblyInfo.cs
+C:\WorkingCopy\ApiExpIFood\CamadaDeDados\obj\Debug\net6.0\CamadaDeDados.csproj.CoreCompileInputs.cache
+C:\WorkingCopy\ApiExpIFood\CamadaDeDados\bin\Debug\net6.0\CamadaDeDados.deps.json
+C:\WorkingCopy\ApiExpIFood\CamadaDeDados\bin\Debug\net6.0\CamadaDeDados.dll
+C:\WorkingCopy\ApiExpIFood\CamadaDeDados\bin\Debug\net6.0\CamadaDeDados.pdb
+C:\WorkingCopy\ApiExpIFood\CamadaDeDados\bin\Debug\net6.0\CamadaDeNegócios.dll
+C:\WorkingCopy\ApiExpIFood\CamadaDeDados\bin\Debug\net6.0\CamadaDeNegócios.pdb
+C:\WorkingCopy\ApiExpIFood\CamadaDeDados\obj\Debug\net6.0\CamadaDeDados.csproj.AssemblyReference.cache
+C:\WorkingCopy\ApiExpIFood\CamadaDeDados\obj\Debug\net6.0\CamadaDeDados.csproj.CopyComplete
+C:\WorkingCopy\ApiExpIFood\CamadaDeDados\obj\Debug\net6.0\CamadaDeDados.dll
+C:\WorkingCopy\ApiExpIFood\CamadaDeDados\obj\Debug\net6.0\refint\CamadaDeDados.dll
+C:\WorkingCopy\ApiExpIFood\CamadaDeDados\obj\Debug\net6.0\CamadaDeDados.pdb
+C:\WorkingCopy\ApiExpIFood\CamadaDeDados\obj\Debug\net6.0\ref\CamadaDeDados.dll

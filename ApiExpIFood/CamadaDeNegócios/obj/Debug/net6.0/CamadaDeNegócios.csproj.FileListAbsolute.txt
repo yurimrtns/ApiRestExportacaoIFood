@@ -1,0 +1,12 @@
+C:\WorkingCopy\ApiExpIFood\CamadaDeNegócios\bin\Debug\net6.0\CamadaDeNegócios.deps.json
+C:\WorkingCopy\ApiExpIFood\CamadaDeNegócios\bin\Debug\net6.0\CamadaDeNegócios.dll
+C:\WorkingCopy\ApiExpIFood\CamadaDeNegócios\bin\Debug\net6.0\CamadaDeNegócios.pdb
+C:\WorkingCopy\ApiExpIFood\CamadaDeNegócios\obj\Debug\net6.0\CamadaDeNegócios.csproj.AssemblyReference.cache
+C:\WorkingCopy\ApiExpIFood\CamadaDeNegócios\obj\Debug\net6.0\CamadaDeNegócios.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkingCopy\ApiExpIFood\CamadaDeNegócios\obj\Debug\net6.0\CamadaDeNegócios.AssemblyInfoInputs.cache
+C:\WorkingCopy\ApiExpIFood\CamadaDeNegócios\obj\Debug\net6.0\CamadaDeNegócios.AssemblyInfo.cs
+C:\WorkingCopy\ApiExpIFood\CamadaDeNegócios\obj\Debug\net6.0\CamadaDeNegócios.csproj.CoreCompileInputs.cache
+C:\WorkingCopy\ApiExpIFood\CamadaDeNegócios\obj\Debug\net6.0\CamadaDeNegócios.dll
+C:\WorkingCopy\ApiExpIFood\CamadaDeNegócios\obj\Debug\net6.0\refint\CamadaDeNegócios.dll
+C:\WorkingCopy\ApiExpIFood\CamadaDeNegócios\obj\Debug\net6.0\CamadaDeNegócios.pdb
+C:\WorkingCopy\ApiExpIFood\CamadaDeNegócios\obj\Debug\net6.0\ref\CamadaDeNegócios.dll

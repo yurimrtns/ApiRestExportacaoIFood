@@ -1,0 +1,228 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\WorkingCopy\\ApiExpIFood\\ApiExpIFood\\ApiExpIFood.csproj": {}
+  },
+  "projects": {
+    "C:\\WorkingCopy\\ApiExpIFood\\ApiExpIFood\\ApiExpIFood.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WorkingCopy\\ApiExpIFood\\ApiExpIFood\\ApiExpIFood.csproj",
+        "projectName": "ApiExpIFood",
+        "projectPath": "C:\\WorkingCopy\\ApiExpIFood\\ApiExpIFood\\ApiExpIFood.csproj",
+        "packagesPath": "C:\\Users\\yuri.martins\\.nuget\\packages\\",
+        "outputPath": "C:\\WorkingCopy\\ApiExpIFood\\ApiExpIFood\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yuri.martins\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/tnfdev/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeDados\\CamadaDeDados.csproj": {
+                "projectPath": "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeDados\\CamadaDeDados.csproj"
+              },
+              "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeNegócios\\CamadaDeNegócios.csproj": {
+                "projectPath": "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeNegócios\\CamadaDeNegócios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeDados\\CamadaDeDados.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeDados\\CamadaDeDados.csproj",
+        "projectName": "CamadaDeDados",
+        "projectPath": "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeDados\\CamadaDeDados.csproj",
+        "packagesPath": "C:\\Users\\yuri.martins\\.nuget\\packages\\",
+        "outputPath": "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeDados\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yuri.martins\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/tnfdev/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeNegócios\\CamadaDeNegócios.csproj": {
+                "projectPath": "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeNegócios\\CamadaDeNegócios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeNegócios\\CamadaDeNegócios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeNegócios\\CamadaDeNegócios.csproj",
+        "projectName": "CamadaDeNegócios",
+        "projectPath": "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeNegócios\\CamadaDeNegócios.csproj",
+        "packagesPath": "C:\\Users\\yuri.martins\\.nuget\\packages\\",
+        "outputPath": "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeNegócios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yuri.martins\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/tnfdev/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
