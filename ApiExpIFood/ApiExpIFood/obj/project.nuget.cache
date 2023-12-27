@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yC27F2GsbgfYj0CLLPKpIsWperZ4eOvHdzSonco5SEDUK4Pud62awiGLugvMUoihwSRuLmo0I8qsx3rNkbY9FQ==",
+  "dgSpecHash": "yD1QoN/EhY4Nyd+4GVYbYI4QkQLA1lN25q31EEIR96GlGTJ4rCimW0a2fKuZT93txReArmhcDnbUtJ4XxL5SwQ==",
   "success": true,
-  "projectFilePath": "C:\\WorkingCopy\\ApiExpIFood\\ApiExpIFood\\ApiExpIFood.csproj",
+  "projectFilePath": "C:\\WorkingCopy\\ApiRestExportacaoIFood\\ApiExpIFood\\ApiExpIFood\\ApiExpIFood.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yuri.martins\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\yuri.martins\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

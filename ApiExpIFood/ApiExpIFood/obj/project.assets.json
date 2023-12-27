@@ -786,11 +786,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WorkingCopy\\ApiExpIFood\\ApiExpIFood\\ApiExpIFood.csproj",
+      "projectUniqueName": "C:\\WorkingCopy\\ApiRestExportacaoIFood\\ApiExpIFood\\ApiExpIFood\\ApiExpIFood.csproj",
       "projectName": "ApiExpIFood",
-      "projectPath": "C:\\WorkingCopy\\ApiExpIFood\\ApiExpIFood\\ApiExpIFood.csproj",
+      "projectPath": "C:\\WorkingCopy\\ApiRestExportacaoIFood\\ApiExpIFood\\ApiExpIFood\\ApiExpIFood.csproj",
       "packagesPath": "C:\\Users\\yuri.martins\\.nuget\\packages\\",
-      "outputPath": "C:\\WorkingCopy\\ApiExpIFood\\ApiExpIFood\\obj\\",
+      "outputPath": "C:\\WorkingCopy\\ApiRestExportacaoIFood\\ApiExpIFood\\ApiExpIFood\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yuri.martins\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -808,11 +808,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeDados\\CamadaDeDados.csproj": {
-              "projectPath": "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeDados\\CamadaDeDados.csproj"
+            "C:\\WorkingCopy\\ApiRestExportacaoIFood\\ApiExpIFood\\CamadaDeDados\\CamadaDeDados.csproj": {
+              "projectPath": "C:\\WorkingCopy\\ApiRestExportacaoIFood\\ApiExpIFood\\CamadaDeDados\\CamadaDeDados.csproj"
             },
-            "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeNegócios\\CamadaDeNegócios.csproj": {
-              "projectPath": "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeNegócios\\CamadaDeNegócios.csproj"
+            "C:\\WorkingCopy\\ApiRestExportacaoIFood\\ApiExpIFood\\CamadaDeNegócios\\CamadaDeNegócios.csproj": {
+              "projectPath": "C:\\WorkingCopy\\ApiRestExportacaoIFood\\ApiExpIFood\\CamadaDeNegócios\\CamadaDeNegócios.csproj"
             }
           }
         }

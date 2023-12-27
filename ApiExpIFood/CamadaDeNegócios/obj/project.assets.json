@@ -394,11 +394,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeNegócios\\CamadaDeNegócios.csproj",
+      "projectUniqueName": "C:\\WorkingCopy\\ApiRestExportacaoIFood\\ApiExpIFood\\CamadaDeNegócios\\CamadaDeNegócios.csproj",
       "projectName": "CamadaDeNegócios",
-      "projectPath": "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeNegócios\\CamadaDeNegócios.csproj",
+      "projectPath": "C:\\WorkingCopy\\ApiRestExportacaoIFood\\ApiExpIFood\\CamadaDeNegócios\\CamadaDeNegócios.csproj",
       "packagesPath": "C:\\Users\\yuri.martins\\.nuget\\packages\\",
-      "outputPath": "C:\\WorkingCopy\\ApiExpIFood\\CamadaDeNegócios\\obj\\",
+      "outputPath": "C:\\WorkingCopy\\ApiRestExportacaoIFood\\ApiExpIFood\\CamadaDeNegócios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yuri.martins\\AppData\\Roaming\\NuGet\\NuGet.Config",
